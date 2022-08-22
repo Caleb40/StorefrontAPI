@@ -1,6 +1,8 @@
 from django.urls import path
-from django.urls.conf import include
+from rest_framework import permissions
 from rest_framework_nested import routers
+from drf_yasg import openapi
+from drf_yasg.views import get_schema_view
 from . import views
 
 router = routers.DefaultRouter()
@@ -20,5 +22,25 @@ products_router.register(
 carts_router = routers.NestedDefaultRouter(router, 'carts', lookup='cart')
 carts_router.register('items', views.CartItemViewSet, basename='cart-items')
 
+
+# Documentation
+schema_view = get_schema_view(
+    openapi.Info(
+        title="Cribr API",
+        default_version="v1",
+        description="API backend for the Cribr Housing project.",
+        terms_of_service="https://cribr.com/permissions",
+        contact=openapi.Contact(email="calebseyi123@gmail.com"),
+        license=openapi.License(name="BSD License")
+    ),
+    public=False,
+    permission_classes=[permissions.AllowAny]
+)
+
+swagger_documentation_endpoint = path(
+    'documentation/', schema_view.with_ui(  # new
+        'swagger', cache_timeout=0), name='schema-swagger'),
+
+
 # URLConf
-urlpatterns = router.urls + products_router.urls + carts_router.urls
+urlpatterns = router.urls + products_router.urls + carts_router.urls + swagger_documentation_endpoint
