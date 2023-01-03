@@ -1,6 +1,6 @@
 # StorefrontAPI
 
-An fully functional API backend for an online store built with Django and using Django-Rest-Framework for serving endpoints.
+A fully functional API backend for an online store built with Django and using Django-Rest-Framework for serving endpoints.
 
 - This api is hosted online on Heroku and the API root is at https://storefrontapi.up.railway.app/store
 - Documentation for all endpoints in this application can be found at https://storefrontapi.up.railway.app/documentation

@@ -43,4 +43,4 @@ swagger_documentation_endpoint = path(
 
 
 # URLConf
-urlpatterns = router.urls + products_router.urls + carts_router.urls + swagger_documentation_endpoint
+urlpatterns = router.urls + products_router.urls + carts_router.urls + list(swagger_documentation_endpoint)

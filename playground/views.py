@@ -6,7 +6,8 @@ from rest_framework.views import APIView
 import logging
 import requests
 
-logger = logging.getLogger(__name__) 
+logger = logging.getLogger(__name__)
+
 
 class HelloView(APIView):
     def get(self, request):
