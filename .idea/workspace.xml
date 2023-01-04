@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93139be5-1dba-41e2-aebd-15910e466279" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storefront/settings/prod.py" beforeDir="false" afterPath="$PROJECT_DIR$/storefront/settings/prod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cribr/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Cribr/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Cribr" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -115,7 +114,7 @@
       <workItem from="1672775687460" duration="5906000" />
       <workItem from="1672781834844" duration="7133000" />
       <workItem from="1672789425740" duration="387000" />
-      <workItem from="1672789842289" duration="14762000" />
+      <workItem from="1672789842289" duration="15164000" />
     </task>
     <servers />
   </component>
