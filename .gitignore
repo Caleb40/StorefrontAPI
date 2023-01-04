@@ -1,4 +1,5 @@
 *.pyc
 /media/
 /static/
+staticfiles
 general.log
