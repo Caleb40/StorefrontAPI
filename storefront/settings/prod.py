@@ -6,7 +6,7 @@ DEBUG = False
 
 SECRET_KEY = os.environ['SECRET_KEY']
 
-ALLOWED_HOSTS = ['moshbuy-prod-mnb.herokuapp.com']
+ALLOWED_HOSTS = ['storefrontapi.up.railway.app']
 
 DATABASES = {
     'default': dj_database_url.config()
