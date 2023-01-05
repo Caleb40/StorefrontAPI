@@ -207,3 +207,5 @@ LOGGING = {
         }
     }
 }
+
+CSRF_TRUSTED_ORIGINS = ['https://storefrontapi.up.railway.app/']
