@@ -1,4 +1,5 @@
 import dj_database_url
+
 from .common import *
 
 DEBUG = True
@@ -25,6 +26,16 @@ CACHES = {
         }
     }
 }
+
+CLOUDINARY_STORAGE = {
+    'CLOUD_NAME': os.getenv('CLOUDINARY_NAME'),
+    'API_KEY': os.getenv('CLOUDINARY_KEY'),
+    'API_SECRET': os.getenv('CLOUDINARY_SECRET'),
+    'SECURE': False
+}
+
+# Commented to switch back to local railway storage, fuck cloudinary
+DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'
 
 # EMAIL_HOST = os.environ['MAILGUN_SMTP_SERVER']
 # EMAIL_HOST_USER = os.environ['MAILGUN_SMTP_LOGIN']

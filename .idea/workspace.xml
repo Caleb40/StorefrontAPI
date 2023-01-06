@@ -5,137 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93139be5-1dba-41e2-aebd-15910e466279" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/README.723ffa086d8b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/immutable.37fd83058fde.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/immutable.37fd83058fde.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/immutable.37fd83058fde.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/immutable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/immutable.min.d985bc61d85c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/immutable.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/insQ.d4a1933caf20.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/insQ.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/insQ.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/insQ.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/insQ.min.90ab21607447.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/insQ.min.90ab21607447.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/insQ.min.90ab21607447.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/insQ.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/insQ.min.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/insQ.min.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-init.41348b1afc50.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-init.41348b1afc50.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-init.41348b1afc50.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-init.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-init.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/LICENSE.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/LICENSE.e4e5f59c85dc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/LICENSE.e4e5f59c85dc.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/LICENSE.e4e5f59c85dc.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/LICENSE.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/redoc.min.f0aba1761dd6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/redoc.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/redoc.min.js.8b046eaab501.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/redoc.min.js.8b046eaab501.map.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/redoc.min.js.8b046eaab501.map.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/redoc.min.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/redoc.min.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/redoc.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/redoc.min.js.map.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc-old/redoc.min.js.map.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/LICENSE.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/LICENSE.cf2d48dc6713" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/LICENSE.cf2d48dc6713.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/LICENSE.cf2d48dc6713.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/LICENSE.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/redoc-logo.c7dc7712ce68.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/redoc-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/redoc.min.2b1eee526e0a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/redoc.min.2b1eee526e0a.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/redoc.min.2b1eee526e0a.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/redoc.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/redoc.standalone.js.aeaa76c1fd83.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/redoc.standalone.js.aeaa76c1fd83.map.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/redoc.standalone.js.aeaa76c1fd83.map.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/redoc.standalone.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/redoc.standalone.js.map.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/redoc/redoc.standalone.js.map.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/style.680c08b2b7b4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/LICENSE.3b83ef96387f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/LICENSE.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/LICENSE.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/NOTICE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/NOTICE.342625133694" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/NOTICE.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/absolute-path.7ca5ebff3b35.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/absolute-path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/absolute-path.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/absolute-path.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/favicon-32x32.40d4f2c38d1c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/index.4843f77ccf9e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/oauth2-redirect.af65d3738f96.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/oauth2-redirect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/oauth2-redirect.html.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/oauth2-redirect.html.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-bundle.6056939ffb14.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js.755173a13a3f.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js.map.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js.map.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle-core.3e6700b63df5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle-core.3e6700b63df5.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle-core.3e6700b63df5.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle-core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle-core.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle-core.js.c04fc518c03e.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle-core.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle-core.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle-core.js.map.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle-core.js.map.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle.150d41691600.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle.js.c49111a58ec1.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle.js.c49111a58ec1.map.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle.js.c49111a58ec1.map.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-es-bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.3286d517137c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.3286d517137c.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.3286d517137c.js.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js.63a91ae332fd.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.158a8d7ab729.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.css.7039838317ab.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.css.7039838317ab.map.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.css.7039838317ab.map.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.css.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.js.c7dcfcbcee5b.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.js.map.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-dist/swagger-ui.js.map.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-init.7d9c695107e5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-init.js.br" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-yasg/swagger-ui-init.js.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cribr/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Cribr/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/staticfiles.json" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/staticfiles.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/staticfiles.json.br" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/staticfiles.json.br" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/staticfiles.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/staticfiles.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cribr/config/settings/prod.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cribr/config/settings/prod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Cribr" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -173,24 +44,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/caleb/Desktop/StorefrontAPI/core/static/core&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;/home/caleb/Videos/Tutorials/ The Ultimate Django Series Part 3/Code/9- Deployment/Finish/storefront3/Pipfile&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/caleb/Desktop/Cribr",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "two.files.diff.last.used.file": "/home/caleb/Videos/Tutorials/ The Ultimate Django Series Part 3/Code/9- Deployment/Finish/storefront3/Pipfile",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/core/static/core" />
@@ -250,7 +121,7 @@
       <workItem from="1672781834844" duration="7133000" />
       <workItem from="1672789425740" duration="387000" />
       <workItem from="1672789842289" duration="16985000" />
-      <workItem from="1672892703013" duration="1290000" />
+      <workItem from="1672892703013" duration="6863000" />
     </task>
     <servers />
   </component>
