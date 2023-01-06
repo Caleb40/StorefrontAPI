@@ -24,6 +24,7 @@ django-redis = "*"
 pillow = "*"
 gunicorn = "*"
 psycopg2-binary = "*"
+django-cloudinary-storage = "*"
 
 [dev-packages]
 
