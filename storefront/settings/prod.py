@@ -34,8 +34,8 @@ CLOUDINARY_STORAGE = {
     'SECURE': False
 }
 
-# Commented to switch back to local railway storage, fuck cloudinary
-DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'
+# Commented to switch back to local railway storage
+# DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'
 
 # EMAIL_HOST = os.environ['MAILGUN_SMTP_SERVER']
 # EMAIL_HOST_USER = os.environ['MAILGUN_SMTP_LOGIN']
